@@ -1,2 +1,2 @@
-web: meteor
+#web: meteor
 #stuff
